@@ -27,9 +27,8 @@
 }
 
 .header__title {
-  font-size: 110px;
   width: 730px;
-  font-size: 106px;
+  font-size: 102px;
   line-height: 96px;
   font-weight: bold;
   font-family: 'Helvetica Neue', Arial, sans-serif;
@@ -314,7 +313,7 @@ margin-top: 20px;
 
 .logo_place_footer {
   width: 183px;
-  height:35px ;
+  height: 35px;
   display: flex;
 }
 
