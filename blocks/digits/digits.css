@@ -1,0 +1,6 @@
+.digits {
+  display: flex;
+  flex-direction: column;
+  color:#000000;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
