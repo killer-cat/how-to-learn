@@ -6,3 +6,8 @@
   color: #2f80ed;
   margin:0 0 0 48px;
 }
+
+
+.khan__buy-link:hover {
+  color: #00d9ff;
+}

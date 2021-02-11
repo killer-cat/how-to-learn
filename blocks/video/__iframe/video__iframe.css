@@ -1,3 +1,7 @@
 .video__iframe {
   margin: 0 20px 0 auto;
 }
+
+.video__iframe:nth-child(2) {
+  margin: 0 auto 0 0;
+}
