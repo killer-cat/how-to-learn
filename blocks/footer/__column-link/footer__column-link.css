@@ -6,8 +6,9 @@
   line-height: 30px;
   font-weight: normal;
   font-family: 'Helvetica Neue', Arial, sans-serif;
+  transition: opacity 1s ease 0.2s;
 }
 
 .footer__column-link:hover {
-  color: #00d9ff;
+  opacity: 15%;
   }

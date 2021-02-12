@@ -1,6 +1,6 @@
 .rotation {
     animation-name: rotation;
-      animation-timing-function: ease;
+      animation-timing-function: linear;
       animation-iteration-count: infinite;
       animation-direction: normal;
       animation-duration: 20s;
